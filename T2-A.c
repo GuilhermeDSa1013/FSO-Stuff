@@ -79,6 +79,7 @@ int main() {
     }
 
     return 0;
+}
+
 /*Uso do vídeo "CompConc - Introdução a Computação Concorrente com a Biblioteca pthread.h (pt. 1) #1" do canal Pedro Romário como referência,
 link: https://www.youtube.com/watch?v=XMfnP2VxEG4*/
-}
